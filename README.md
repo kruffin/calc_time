@@ -10,6 +10,10 @@ This is a time calculating bash script. It expects an input file of which each l
  I currenlty populate such a file with a command like this:
  
     $> echo "`date +%s`,START,what i am working on" >> this_weeks_file.csv
+    ... Some time elapses
+    $> echo "`date +%s`,START,working on something else" >> this_weeks_file.csv
+    ... More time elapses
+    $> echo "`date +%s`,END,finished that thing; time for a beer" >> this_weeks_file.csv
 
  Now to parse that CSV with this script run:
  
