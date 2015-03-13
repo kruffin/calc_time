@@ -22,7 +22,7 @@ This is a time calculating bash script. It expects an input file of which each l
     Wed Mar 11 10:20:00 2015 Total: 7.02722
     Thu Mar 12 09:40:00 2015 Total: 8.20694
     Fri Mar 13 09:34:44 2015 Total: 1.73667
-                             Running Total: 33.0858
+                     Running Total: 33.0858
 
 
 ## Requirements / Tools Used Internally
